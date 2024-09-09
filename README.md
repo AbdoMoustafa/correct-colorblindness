@@ -11,6 +11,7 @@
 | 6 | process_image.py| In charge of calling and coordinating methods in the other files (excluding main.py, which calls process_image.py). Validation also takes place here, where it is determined if the image needs recoloring.   |
 | 7 | [Folder] Object Detection Models | Contains Yolov8 detection models: 'best.pt' detects legends and legend distributions; 'detect_grid.pt' detects the presence of gridlines; 'heatmap_detect.pt' detects heatmap dimensions|
 | 8 | coolvetica_rg.otf | Font used in redrawing numbers detected by Google Vision API |
+| 9 | Thesis Report.pdf | The thesis report of the project to correct colourblindness |
 
 
 ## Documentation
